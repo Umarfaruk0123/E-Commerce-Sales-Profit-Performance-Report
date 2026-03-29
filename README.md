@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales & Profit Performance Dashboard — Power BI Project
+# 🛒 E-Commerce Sales & Profit Performance Report — Power BI Project
 
 A complete sales and profit analysis project for **E-Commerce Store (2024–2025)** built using **Microsoft Power BI** and **Excel**. The project involves cleaning raw data, building data models, writing DAX measures, and designing an interactive dashboard to uncover key business insights.
 
